@@ -1,2 +1,2 @@
 # Bachelor Thesis
-Few-shot learning (Toward few-shot learning and data augmenation)
+Few-shot learning (toward few-shot learning and data augmenation)
